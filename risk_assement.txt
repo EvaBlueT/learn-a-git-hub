@@ -1,0 +1,46 @@
+RISK Assesment for a Cafe in a Central London
+Risk
+Risk Statement
+Response Strategy
+Objectives
+Likelihood
+Impact
+Risk Level
+Low number of Staff Present on a Shift
+If there is not enough staff during the shift, especially during the pick times, customers are not served in a timely manner or mistakes with orders are likely to happen. The service is not going smoothly, customers and present staff are likely to get stressed and unhappy.
+Well organized shift pattern. Looking after the wellbeing of staff. Having a back plan in place eg.to call a staff off shift to cover. Well trained staff.
+Preventing from low number (less than required) of staff coming onto their shift., 
+Medium
+High
+7-8
+Electricity and/or Water Supply issue
+If there is not electricity/water at the premisses the cafe is not able to operate.
+Establishing the cause of the problem. Depending on how long the cut is going for making suitable decisions including closing Cafe for public  until the problem is being solved.
+Regular checkings by qualified staff on the conditions of Electricity/Water Supplies - wires, pipes etc
+
+Being informed on time on any planning works on Electricity and Water Supllies.
+Low
+Low
+1-2
+Coffee, Sugar, Milk etc Supplies not Efficient 
+If there is not enough products customers are not able to receive their full orders
+Order products in a timely manner, have some extra stock  
+Regular checking on a stock level and making orders accordingly, regular  delivery checking.
+High
+Medium
+7-8
+Terrorist attack
+Staff and Customer in a risk of losing their lives
+Applying government guidance
+Being with the line with current Government Guidance and Warnings
+Low
+Low
+1-2
+Overcrowded Cafe Area
+Customers in a risk of being hurt, not served on time or orders mistaken
+Limit of the people inside the cafe
+Monitor number of customers at a time inside the Cafe
+Medium
+High
+7-8
+
